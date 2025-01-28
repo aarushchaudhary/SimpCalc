@@ -11,7 +11,7 @@ int main()
     char oper = '+';
 
     cout << "SimpCalc" << endl;
-    cout << "Simple Calculator by LASTSECRET987"<< endl;
+    cout << "Simple Calculator"<< endl;
     cout << "Enter an simple equation of form: a+b | a-b | a*b | a/b" << endl;
 
     Calculator c;
